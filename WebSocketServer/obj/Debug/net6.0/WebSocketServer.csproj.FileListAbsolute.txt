@@ -1,0 +1,52 @@
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\appsettings.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.exe
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.deps.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.runtimeconfig.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.pdb
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.AssemblyInfo.cs
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.WebSocketServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.build.WebSocketServer.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebSocketServer.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebSocketServer.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\scopedcss\bundle\WebSocketServer.styles.css
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\refint\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.pdb
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.genruntimeconfig.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\ref\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\appsettings.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.exe
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.deps.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.runtimeconfig.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\bin\Debug\net6.0\WebSocketServer.pdb
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.AssemblyInfo.cs
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.WebSocketServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.build.WebSocketServer.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebSocketServer.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebSocketServer.props
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\scopedcss\bundle\WebSocketServer.styles.css
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\refint\WebSocketServer.dll
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.pdb
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\WebSocketServer.genruntimeconfig.cache
+C:\Users\matth\Desktop\thekey\Hausaufgabe\[Main] Projekt (ASP.NET Core, React)\WebSocketServerProject\WebSocketServer\obj\Debug\net6.0\ref\WebSocketServer.dll
