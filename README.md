@@ -1,5 +1,5 @@
 # WebSocketServerProject
-Full Stack System (c# Backend, React Frondend, Connection via Websocket) for getting a word count map of blog posts
+Full Stack System (c# Backend, React Frontend, Connection via Websocket) for getting a word count map of blog posts
 
 ## Make sure you have [Node.js](https://nodejs.org/en) installed and run `npm install -g serve` before doing the next steps.
 
